@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { Wrapper, HelloBox, Image } from './Example.styled';
+import { Wrapper, HelloBox, Image } from './Styled';
 import PhoneSVG from 'Public/icons/phone.svg';
 
 import worldImageURL from 'Public/images/world.png';
